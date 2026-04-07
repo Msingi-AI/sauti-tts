@@ -64,7 +64,7 @@ use `sauti_tts` for compatibility with the current codebase.
 
 ```bash
 # Clone this repo
-git clone <your-repo-url> sauti-tts
+git clone https://github.com/Msingi-AI/sauti-tts
 cd sauti-tts
 
 # Install dependencies
